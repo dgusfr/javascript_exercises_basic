@@ -10,6 +10,6 @@ function encontrarMaiorNumero(lista) {
   return maior;
 }
 
-const numeros = [10, 5, 8, 20, 3];
+const numeros = [10, 5, 38, 20, 3];
 const maiorNumero = encontrarMaiorNumero(numeros);
 console.log(`O maior número da lista é: ${maiorNumero}`);
