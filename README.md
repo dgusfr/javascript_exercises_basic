@@ -16,7 +16,7 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/js.png" alt="Logo JS" width="100"/>
+    <img src="img/js.png" alt="Logo JS" width="150"/>
   </div>
 </div>
 
