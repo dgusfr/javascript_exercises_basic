@@ -21,4 +21,4 @@ function calcularMediaPonderada(numeros, pesos) {
 const numeros = [5, 7, 9];
 const pesos = [2, 3, 1];
 const mediaPonderada = calcularMediaPonderada(numeros, pesos);
-console.log(`A média ponderada dos números é: ${mediaPonderada}`);
+console.log(`A média ponderada dos números é: ${mediaPonderada.toFixed(2)}`);
