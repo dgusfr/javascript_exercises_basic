@@ -3,14 +3,13 @@ function verificaPrimo(numero) {
   if (numero <= 1) {
     primo = false;
   } else {
-    for (let i = 2; i <= Math.sqrt(numero); i++) {
+    for (let i = 2; i < -Math.sqrt(numero); i++) {
       if (numero % i === 0) {
         primo = false;
         break;
       }
     }
   }
-
   if (primo) {
     console.log("O número é primo!");
   } else {
