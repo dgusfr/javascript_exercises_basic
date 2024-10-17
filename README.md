@@ -70,10 +70,10 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 - **5.js**: Programa onde uma função converta uma temperatura de Celsius para Fahrenheit.
 - **6.js**: Programa onde uma função calcule o máximo divisor comum (MDC) de dois números.
 - **7.js**: Programa onde uma função calcule a média de uma lista de números.
-- **10.js**: Programa onde uma função calcule o perímetro de um quadrado dado o comprimento do lado.
-- **11.js**: Programa onde uma função verifique se um número é par.
-- **13.js**: Programa onde uma função calcule a média ponderada de uma lista de números e seus respectivos pesos.
-- **14.js**: Programa onde uma função calcule o mínimo múltiplo comum (MMC) de dois números.
+- **8.js**: Programa onde uma função calcule o perímetro de um quadrado dado o comprimento do lado.
+- **9.js**: Programa onde uma função verifique se um número é par.
+- **10.js**: Programa onde uma função calcule a média ponderada de uma lista de números e seus respectivos pesos.
+- **11.js**: Programa onde uma função calcule o mínimo múltiplo comum (MMC) de dois números.
 
 **Bonus:**
 
