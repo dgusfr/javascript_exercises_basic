@@ -10,7 +10,7 @@ function calcularFatorial(numero) {
   }
 }
 
-const numero = 3;
+const numero = 5;
 const resultado = calcularFatorial(numero);
 console.log(`O fatorial de ${numero} é: ${resultado}`);
 
