@@ -11,4 +11,4 @@ function criarAcronimo(frase) {
 }
 
 const fraseExemplo = "Central de Processamento de Dados";
-console.log(criarAcronimo(fraseExemplo)); // Saída: "CPD"
+console.log(criarAcronimo(fraseExemplo));
