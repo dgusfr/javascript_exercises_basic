@@ -1,6 +1,4 @@
 function capitalizeWords(sentence) {
-  // '/\b\w/g' localiza letra no início de uma palavra na frase.
-  // function (char) Função de Callback
   return sentence.replace(/\b\w/g, function (char) {
     return char.toUpperCase();
   });
